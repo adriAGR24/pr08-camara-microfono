@@ -72,7 +72,7 @@ Ejemplo visual:
 
 En este ejercicio, se ha importado un asset de televisor antiguo desde la `Unity Asset Store`, y otro de unos altavoces de PC.
 
-Seguidamente, se han añadido a los altavoces un componente `AudioSource` para poder guardar el `AudioClip` grabado por el micrófono y así pode reproducirlo posteriormente.
+Seguidamente, se han añadido a los altavoces un componente `AudioSource` para poder guardar el `AudioClip` grabado por el micrófono y así poder reproducirlo posteriormente.
 
 Por último, se ha desarrollado un script que, al mantener presionada la tecla `Space`, se graba un audio de 10 segundos. Para reproducir el audio generado, se deberá de mantener presionada la tecla `R`.
 
